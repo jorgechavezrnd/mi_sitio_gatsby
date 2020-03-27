@@ -1,0 +1,71 @@
+{
+    "data": {
+        "email": "jorgechavezrnd@gmail.com",
+        "username": "jorgechavezrnd",
+        "certificates": [
+            {
+                "score": 10,
+                "code": "c493465a-7eca-4b32-9644-1e7d5fdd6814",
+                "title": "Curso Profesional de JavaScript"
+            }
+        ],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Taller para consumir APIs de Elixir",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/consumir-apis-elixir"
+            },
+            {
+                "title": "Curso de Patrones de Diseño con JAVA",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/patrones-diseno"
+            },
+            {
+                "title": "Curso de Estructuras de Datos con JAVA",
+                "progress": "75.0",
+                "url": "http://codigofacilito.com/courses/estructuras-java"
+            },
+            {
+                "title": "Curso de programación funcional en Java",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/java-programacion-funcional"
+            },
+            {
+                "title": "Curso de Docker",
+                "progress": "93.0",
+                "url": "http://codigofacilito.com/courses/docker"
+            },
+            {
+                "title": "Comunica aplicaciones entre sí con Redis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/redis-pubsub"
+            },
+            {
+                "title": "Desarrollo Web con Go",
+                "progress": "10.0",
+                "url": "http://codigofacilito.com/courses/go-web"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "50.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title": "Taller para consumir APIs de Elixir",
+                "url": "http://codigofacilito.com/courses/consumir-apis-elixir"
+            },
+            {
+                "title": "Curso de Patrones de Diseño con JAVA",
+                "url": "http://codigofacilito.com/courses/patrones-diseno"
+            },
+            {
+                "title": "Curso de programación funcional en Java",
+                "url": "http://codigofacilito.com/courses/java-programacion-funcional"
+            }
+        ]
+    },
+    "errors": []
+}

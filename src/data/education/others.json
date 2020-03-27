@@ -1,0 +1,12 @@
+{
+  "slug": "others",
+  "title": "Otros logros academicos",
+  "description": "Talleres, diplomados y conferencias en las que he participado",
+  "items": [
+    {
+      "name": "Competencia de programacion ACM-ICPC",
+      "degree": "ACM-ICPC",
+      "score": "70"
+    }
+  ]
+}

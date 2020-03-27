@@ -1,0 +1,12 @@
+{
+  "slug": "presencial",
+  "title": "Formacion academica",
+  "description": "Formacion academica, grados de estudio e instituciones a las que asisti",
+  "items": [
+    {
+      "name": "Universidad Catolica Boliviana Sau Paulo",
+      "degree": "Ing. en Sistemas",
+      "score": "97"
+    }
+  ]
+}
